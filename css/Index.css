@@ -1,0 +1,97 @@
+#headers{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+li{
+    float: left;
+}
+li a{
+    display: block ;
+    color: #26a6fc !important;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: gainsboro;
+  }
+#titulo1{
+    padding-top: 100px;
+}
+#titulo1d1{
+    font-size: 50px;
+}
+#sec1{
+    background-color: #f5f5f5;
+    padding-bottom: 100px;
+}
+#parrafos{
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.boton2{
+    border-radius: 5px;
+    color:#26a6fc;
+    border-top: 1px solid #26a6fc;
+    border-left: 1px solid #26a6fc;
+    border-right: 1px solid #26a6fc;
+    border-bottom: 1px solid #26a6fc;
+    padding: 2px 6px 2px 6px;
+}
+.boton2:hover{
+    color: #f5f5f5;
+    background-color: #26a6fc;
+}
+#sec2{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#parrafos2{
+    padding-top: 100px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#sec3{
+    background-color: #f5f5f5;
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+video{
+    max-width: 100%;
+    max-height: 100%;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+#logo{
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.flogo{
+    padding-top: 100px;
+    padding-bottom: 40px;
+    text-align : center;
+}
+hr{
+    height: 3px;
+    width: 100%;
+    background-color: black;
+
+}
+#informacio{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 15px;
+    text-align : center;
+}
